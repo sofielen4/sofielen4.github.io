@@ -1,0 +1,172 @@
+/** Configuración General **/
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+/** Barra de Navegación y links**/
+.BarraDeNavegacion{
+    max-width: 100%;
+    background-color: rgb(112, 5, 112);
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    padding: 2%;
+    margin-bottom: 0%;
+    height: 30px;
+}
+
+.Home{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.RedesSociales{
+    position: absolute;
+    list-style: none;
+    margin-top: -3%;
+    padding: 2%;
+       
+}
+
+.Twitter{ 
+    float: left;
+    margin-right: 7px;
+
+    
+}
+.Facebook{
+    float: left;
+    margin-right: 7px;
+    
+}
+.Instagram{
+    float: left;
+    margin-right: 7px;
+}    
+.Linkedin{
+    float: left;
+    
+}
+
+#texto{
+    float: right;
+    color: white;
+}
+
+
+/**Main**/
+
+.InformacionPersonal {
+    position: relative;
+    margin-top: -3%;
+    padding: 0%;
+    background-color: rgb(252, 246, 250);
+    height: 760px;
+    max-width: 100%;
+    
+    }
+        
+
+#FotoSofi{
+    opacity: 0.9;
+    position: relative;
+    margin-left: 150px;
+    margin-top: 40px;
+    
+    
+}
+
+#ImagenSofi{
+    position: relative;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    float: left;
+}
+
+#Parrafo {
+    float: right;
+    text-align: center;
+    margin-top: 130px;
+    margin-right: 70px;
+    font-style: italic;
+    font-size: 28px;
+
+}
+
+
+/**Cuerpo CV**/
+
+.ElementosCV{
+    float: left;
+    margin-top: 50px;
+}
+
+#BotonExperiencia{
+    float: left;
+    background-color:rgb(112, 5, 112);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; ;
+    height: 40px;
+    width: 100px;
+    color:azure;
+    margin-left: 70px;
+    font-size: 15px;
+    
+}
+
+#BotonEducacion{
+    float: left;
+    background-color:rgb(112, 5, 112);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; ;
+    height: 40px;
+    width: 100px;
+    color:azure;
+    margin-left: 50px;
+    font-size: 15px;
+}
+
+#BotonHabilidades{
+    float: left;
+    background-color:rgb(112, 5, 112);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; ;
+    height: 40px;
+    width: 100px;
+    color:azure;
+    margin-left: 50px;
+    font-size: 15px;
+}
+
+#SegundaParte{
+    position: relative;
+    margin-top: 150px;
+    padding: 0%;
+    background-color: rgb(252, 246, 250);
+    height: 300px;
+    max-width: 100%;
+    font-size: 20px;
+    font-style: normal;
+}
+
+
+
+/*Footter*/
+
+.Footer {
+    max-width: 100%;
+    background-color: rgb(112, 5, 112);
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    padding: 2%;
+    margin-bottom: 0%;
+    height: 30px;
+    font-style: italic;
+    color: azure;
+}
+
+.float-end{
+    float: right;
+    
+}
+
